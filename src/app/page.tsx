@@ -786,7 +786,7 @@ export default function Home() {
         <span className="text-foreground">Built by
           <a
             className="underline underline-offset-4 hover:text-ring font-medium ml-1"
-            href="https://github.com/ChaminduD"
+            href="https://github.com/chmndu"
             target="_blank"
             rel="noreferrer"
           >

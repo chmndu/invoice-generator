@@ -53,8 +53,8 @@ npm start
 
 ## Author
 
-- Portfolio - [Chamindu Dahanayaka](https://chamindud.github.io/my-portfolio/)
-- Frontend Mentor - [@ChaminduD](https://www.frontendmentor.io/profile/ChaminduD)
+- Portfolio - [Chamindu Dahanayaka](https://chmndu.github.io/my-portfolio/)
+- Frontend Mentor - [@chmndu](https://www.frontendmentor.io/profile/chmndu)
 - LinkedIn - [Chamindu Dahanayaka](https://www.linkedin.com/in/chamindudahanayaka/)
 
 ## License
