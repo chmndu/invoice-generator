@@ -1,10 +1,8 @@
-# Invoice Generator (Next.js)
+# Invoice Generator
 
 A mobile-first invoice generator built for small businesses. Create an invoice with line items, optional discount, optional bank details, and export as **A4 PDF** or **PNG**.
 
-**Live Demo:**
-
-[https://a4-invoice-generator.vercel.app/](https://a4-invoice-generator.vercel.app/)
+**Live Demo:** [a4-invoice-generator.vercel.app](https://a4-invoice-generator.vercel.app/)
 
 ## Features
 
@@ -48,6 +46,7 @@ npm start
 
 ## Notes
 
+- The invoice and business details shown in the demo are fictional sample data.
 - Invoice data and settings are stored in `localStorage` (this browser/device only).
 - For the cleanest PDF: in the print dialog, disable **Headers and footers**.
 
