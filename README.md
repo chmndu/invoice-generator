@@ -52,9 +52,8 @@ npm start
 
 ## Author
 
-- Portfolio - [Chamindu Dahanayaka](https://chmndu.github.io/my-portfolio/)
-- Frontend Mentor - [@chmndu](https://www.frontendmentor.io/profile/chmndu)
-- LinkedIn - [Chamindu Dahanayaka](https://www.linkedin.com/in/chamindudahanayaka/)
+- Portfolio — [chmndu.vercel.app](https://chmndu.vercel.app/)
+- LinkedIn — [Chamindu Dahanayaka](https://www.linkedin.com/in/chamindudahanayaka/)
 
 ## License
 
